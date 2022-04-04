@@ -7,9 +7,11 @@ p{
 table{
     width: 400px;
 }
+th{
+    background-color: #ddd;
+}
 th caption{
     text-align: center;
-    background-color: #ddd;
 }
 td{
     text-align: center;
